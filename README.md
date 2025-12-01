@@ -4,4 +4,4 @@
 print("Hello World")
 ```
 ### Визуал
-![img1](https://github.com/Dima42gok/repo1/blob/main/picts/picts/1.png).
+![img1](https://github.com/Dima42gok/repo1/blob/main/picts/1.PNG).
